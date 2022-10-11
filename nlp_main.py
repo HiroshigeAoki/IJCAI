@@ -7,7 +7,7 @@ import os
 
 os.makedirs('./csv/nlp', exist_ok=True)
 
-# ProceedingsでMain TrackでNatural Language Processingのところだけ取ったもの。
+# ProceedingsでMain Trackの中の"Natural Language Processing"のところだけ取ったもの。
 
 year_num = [(2022, 9), (2021, 12), (2020, 11), (2019, 10), (2018, 9), (2017, 7)]
 for year, num in tqdm(year_num):

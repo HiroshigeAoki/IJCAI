@@ -1,0 +1,114 @@
+,title,track,categories,url
+0,Story Ending Prediction by Transferable BERT,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2019/249
+1,Estimating Causal Effects of Tone in Online Debates,Main,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2019/259
+2,TransMS: Knowledge Graph Embedding for Complex Relations by Multidirectional Semantics,Main,"['Natural Language Semantics', 'Embeddings']",https://www.ijcai.org/proceedings/2019/268
+3,Learning Semantic Annotations for Tabular Data,Main,"['Knowledge Extraction', 'Embeddings']",https://www.ijcai.org/proceedings/2019/289
+4,Co-Attentive Multi-Task Learning for Explainable Recommendation,Main,['Natural Language Generation'],https://www.ijcai.org/proceedings/2019/296
+5,Reward Learning for Efficient Reinforcement Learning in Extractive Document Summarisation,Main,"['Natural Language Generation', 'Natural Language Summarization']",https://www.ijcai.org/proceedings/2019/326
+6,Using Natural Language for Reward Shaping in Reinforcement Learning,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2019/331
+7,Similarity Preserving Representation Learning for Time Series Clustering,Main,['Embeddings'],https://www.ijcai.org/proceedings/2019/394
+8,Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems,Main,"['Natural Language Generation', 'Dialogue']",https://www.ijcai.org/proceedings/2019/437
+9,Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks,Main,['Text Classification'],https://www.ijcai.org/proceedings/2019/449
+10,Weakly Supervised Multi-task Learning for Semantic Parsing,Main,"['Natural Language Semantics', 'Tagging, chunking, and parsing']",https://www.ijcai.org/proceedings/2019/468
+11,The Pupil Has Become the Master: Teacher-Student Model-Based Word Embedding Distillation with Ensemble Learning,Main,"['NLP Applications and Tools', 'Embeddings']",https://www.ijcai.org/proceedings/2019/477
+12,Hierarchical Inter-Attention Network for Document Classification with Multi-Task Learning,Main,"['Sentiment Analysis and Text Mining', 'Text Classification']",https://www.ijcai.org/proceedings/2019/495
+13,Learning to Interpret Satellite Images using Wikipedia,Main,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2019/502
+14,DeepCU: Integrating both Common and Unique Latent Information for Multimodal Sentiment Analysis,Main,['Sentiment Analysis and Text Mining'],https://www.ijcai.org/proceedings/2019/503
+15,Weak Supervision Enhanced Generative Network for Question Generation,Main,['Natural Language Generation'],https://www.ijcai.org/proceedings/2019/528
+16,Neural News Recommendation with Attentive Multi-View Learning,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2019/536
+17,Commit Message Generation for Source Code Changes,Main,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2019/552
+18,Legal Judgment Prediction via Multi-Perspective Bi-Feedback Network,Main,['Text Classification'],https://www.ijcai.org/proceedings/2019/567
+19,Node Embedding over Temporal Graphs,Main,['Embeddings'],https://www.ijcai.org/proceedings/2019/640
+20,Early Discovery of Emerging Entities in Microblogs,Main,"['Information Extraction', 'Natural Language Processing', 'Named Entities']",https://www.ijcai.org/proceedings/2019/678
+21,Neural Program Induction for KBQA Without Gold Programs or Query Annotations,Main,['Question Answering'],https://www.ijcai.org/proceedings/2019/679
+22,Medical Concept Representation Learning from Multi-source Data,Main,"['Natural Language Processing', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2019/680
+23,Multi-Domain Sentiment Classification Based on Domain-Aware Embedding and Attention,Main,"['Sentiment Analysis and Text Mining', 'Text Classification']",https://www.ijcai.org/proceedings/2019/681
+24,A Latent Variable Model for Learning Distributional Relation Vectors,Main,"['Natural Language Semantics', 'Natural Language Processing', 'Embeddings']",https://www.ijcai.org/proceedings/2019/682
+25,Generating Multiple Diverse Responses with Multi-Mapping and Posterior Mapping Selection,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2019/683
+26,Sentiment-Controllable Chinese Poetry Generation,Main,"['Natural Language Generation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2019/684
+27,From Words to Sentences: A Progressive Learning Approach for Zero-resource Machine Translation with Visual Pivots,Main,['Machine Translation'],https://www.ijcai.org/proceedings/2019/685
+28,Learning towards Abstractive Timeline Summarization,Main,"['Natural Language Generation', 'Natural Language Summarization']",https://www.ijcai.org/proceedings/2019/686
+29,Coreference Aware Representation Learning for Neural Named Entity Recognition,Main,"['Information Extraction', 'Natural Language Processing', 'Tagging, chunking, and parsing', 'Named Entities']",https://www.ijcai.org/proceedings/2019/687
+30,Learning  Assistance from an Adversarial Critic for Multi-Outputs Prediction,Main,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2019/688
+31,End-to-End Multi-Perspective Matching for Entity Resolution,Main,"['Information Extraction', 'Coreference Resolution']",https://www.ijcai.org/proceedings/2019/689
+32,Difficulty Controllable Generation of Reading Comprehension Questions,Main,"['Natural Language Generation', 'Question Answering', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2019/690
+33,Modeling Source Syntax and Semantics for Neural AMR Parsing,Main,"['Natural Language Semantics', 'Tagging, chunking, and parsing']",https://www.ijcai.org/proceedings/2019/691
+34,CNN-Based Chinese NER with Lexicon Rethinking,Main,"['Named Entities', 'Tagging, chunking, and parsing', 'Phonology, Morphology, and word segmentation']",https://www.ijcai.org/proceedings/2019/692
+35,Dual Visual Attention Network for Visual Dialog,Main,['Dialogue'],https://www.ijcai.org/proceedings/2019/693
+36,AmazonQA: A Review-Based Question Answering Task,Main,"['Question Answering', 'Resources and Evaluation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2019/694
+37,Answering Binary Causal Questions Through Large-Scale Text Mining: An Evaluation Using Cause-Effect Pairs from Human Experts,Main,"['NLP Applications and Tools', 'Knowledge Extraction']",https://www.ijcai.org/proceedings/2019/695
+38,GSN: A Graph-Structured Network for Multi-Party Dialogues,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2019/696
+39,Leap-LSTM: Enhancing Long Short-Term Memory for Text Categorization,Main,"['Natural Language Processing', 'Text Classification']",https://www.ijcai.org/proceedings/2019/697
+40,Relation Extraction Using Supervision from Topic Knowledge of Relation Labels,Main,"['Information Extraction', 'Natural Language Processing', 'Knowledge Extraction']",https://www.ijcai.org/proceedings/2019/698
+41,Representation Learning with Weighted Inner Product for Universal Approximation of General Similarities,Main,['Embeddings'],https://www.ijcai.org/proceedings/2019/699
+42,Incorporating Structural Information for Better Coreference Resolution,Main,"['Discourse', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2019/700
+43,Knowledge Base Question Answering with Topic Units,Main,"['Natural Language Processing', 'Question Answering']",https://www.ijcai.org/proceedings/2019/701
+44,Adversarial Transfer for  Named Entity Boundary Detection with Pointer Networks,Main,"['Natural Language Processing', 'Named Entities']",https://www.ijcai.org/proceedings/2019/702
+45,Towards Discriminative Representation Learning for Speech Emotion Recognition,Main,"['Speech', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2019/703
+46,Self-attentive Biaffine Dependency Parsing,Main,"['Natural Language Processing', 'Tagging, chunking, and parsing']",https://www.ijcai.org/proceedings/2019/704
+47,Reading selectively via Binary Input Gated Recurrent Unit,Main,['Text Classification'],https://www.ijcai.org/proceedings/2019/705
+48,Learning to Select Knowledge for Response Generation in Dialog Systems,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2019/706
+49,Deep Mask Memory Network with Semantic Dependency and Context Moment for Aspect Level Sentiment Classification,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2019/707
+50,Exploring and Distilling Cross-Modal Information for Image Captioning,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2019/708
+51,Network Embedding with Dual Generation Tasks,Main,['Natural Language Generation'],https://www.ijcai.org/proceedings/2019/709
+52,Building Personalized Simulator for Interactive Search,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2019/710
+53,A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer,Main,['Natural Language Generation'],https://www.ijcai.org/proceedings/2019/711
+54,Unsupervised Neural Aspect Extraction with Sememes,Main,"['Sentiment Analysis and Text Mining', 'Natural Language Semantics', 'Information Extraction']",https://www.ijcai.org/proceedings/2019/712
+55,Randomized Greedy Search for Structured Prediction: Amortized Inference and Learning,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2019/713
+56,Aspect-Based Sentiment Classification with Attentive Neural Turing Machines,Main,"['Natural Language Semantics', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2019/714
+57,Learning Task-Specific Representation for Novel Words in Sequence Labeling,Main,"['Tagging, chunking, and parsing', 'Named Entities', 'Embeddings']",https://www.ijcai.org/proceedings/2019/715
+58,Improving Cross-Domain Performance for Relation Extraction via Dependency Prediction and Information Flow Control,Main,['Information Extraction'],https://www.ijcai.org/proceedings/2019/716
+59,Learn to Select via Hierarchical Gate Mechanism for Aspect-Based Sentiment Analysis,Main,"['Natural Language Processing', 'Sentiment Analysis and Text Mining', 'Text Classification']",https://www.ijcai.org/proceedings/2019/717
+60,Aligning Learning Outcomes to Learning Resources: A Lexico-Semantic Spatial Approach,Main,"['NLP Applications and Tools', 'Text Classification']",https://www.ijcai.org/proceedings/2019/718
+61,A Deep Generative Model for Code Switched Text,Main,"['Natural Language Generation', 'Tagging, chunking, and parsing']",https://www.ijcai.org/proceedings/2019/719
+62,Knowledge Aware Semantic Concept Expansion for Image-Text Matching,Main,['Information Retrieval'],https://www.ijcai.org/proceedings/2019/720
+63,Exploiting Persona Information for Diverse Generation of Conversational Responses,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2019/721
+64,Cold-Start Aware Deep Memory Network for Multi-Entity Aspect-Based Sentiment Analysis,Main,"['Sentiment Analysis and Text Mining', 'Text Classification']",https://www.ijcai.org/proceedings/2019/722
+65,GANs for Semi-Supervised Opinion Spam Detection,Main,['Text Classification'],https://www.ijcai.org/proceedings/2019/723
+66,PRoFET: Predicting the Risk of Firms from Event Transcripts,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2019/724
+67,Unsupervised Embedding Enhancements of Knowledge Graphs using Textual Associations,Main,"['Knowledge Extraction', 'Embeddings']",https://www.ijcai.org/proceedings/2019/725
+68,Swell-and-Shrink: Decomposing Image Captioning by Transformation and Summarization,Main,['Natural Language Summarization'],https://www.ijcai.org/proceedings/2019/726
+69,T-CVAE: Transformer-Based Conditioned Variational Autoencoder for Story Completion,Main,"['Natural Language Generation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2019/727
+70,Robust Embedding with Multi-Level Structures for Link Prediction,Main,"['Natural Language Processing', 'Embeddings']",https://www.ijcai.org/proceedings/2019/728
+71,Revealing Semantic Structures of Texts: Multi-grained Framework for Automatic Mind-map Generation,Main,"['Information Retrieval', 'Natural Language Summarization', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2019/729
+72,Correct-and-Memorize: Learning to Translate from Interactive Revisions,Main,"['Machine Translation', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2019/730
+73,Modeling Noisy Hierarchical Types in Fine-Grained Entity Typing: A Content-Based Weighting Approach,Main,"['Information Extraction', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2019/731
+74,Mask and Infill: Applying Masked Language Model for Sentiment Transfer,Main,"['Natural Language Generation', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2019/732
+75,Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs,Main,"['Natural Language Processing', 'NLP Applications and Tools', 'Knowledge Extraction']",https://www.ijcai.org/proceedings/2019/733
+76,RTHN: A RNN-Transformer Hierarchical Network for Emotion Cause Extraction,Main,"['Sentiment Analysis and Text Mining', 'Text Classification']",https://www.ijcai.org/proceedings/2019/734
+77,Sharing Attention Weights for Fast Transformer,Main,"['Machine Translation', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2019/735
+78,A Goal-Driven Tree-Structured Neural Model for Math Word Problems,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2019/736
+79,Dual-View Variational Autoencoders for Semi-Supervised Text Matching,Main,['Natural Language Semantics'],https://www.ijcai.org/proceedings/2019/737
+80,Earlier Attention? Aspect-Aware LSTM for Aspect-Based Sentiment Analysis,Main,"['Sentiment Analysis and Text Mining', 'Text Classification']",https://www.ijcai.org/proceedings/2019/738
+81,Polygon-Net: A General Framework for Jointly Boosting Multiple Unsupervised Neural Machine Translation Models,Main,"['Machine Translation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2019/739
+82,Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning,Main,"['Information Extraction', 'Natural Language Processing', 'Named Entities']",https://www.ijcai.org/proceedings/2019/740
+83,Robust Audio Adversarial Example for a Physical Attack,Main,['Speech'],https://www.ijcai.org/proceedings/2019/741
+84,HorNet: A Hierarchical Offshoot Recurrent Network for Improving Person Re-ID via Image Captioning,Main,"['Natural Language Generation', 'Embeddings']",https://www.ijcai.org/proceedings/2019/742
+85,Knowledge-enhanced Hierarchical Attention for Community Question Answering with Multi-task and Adaptive Learning,Main,"['Natural Language Processing', 'Question Answering']",https://www.ijcai.org/proceedings/2019/743
+86,Knowledgeable Storyteller: A Commonsense-Driven Generative Model for Visual Storytelling,Main,"['Natural Language Generation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2019/744
+87,Triplet Enhanced AutoEncoder: Model-free Discriminative Network Embedding,Main,['Embeddings'],https://www.ijcai.org/proceedings/2019/745
+88,Improving Multilingual Sentence Embedding using Bi-directional Dual Encoder with Additive Margin Softmax,Main,"['Information Retrieval', 'Machine Translation', 'Natural Language Processing', 'Embeddings']",https://www.ijcai.org/proceedings/2019/746
+89,Utilizing Non-Parallel Text for Style Transfer by Making Partial Comparisons,Main,"['Natural Language Generation', 'Natural Language Processing', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2019/747
+90,Graph-based Neural Sentence Ordering,Main,"['Discourse', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2019/748
+91,Refining Word Representations by Manifold Learning,Main,"['Natural Language Processing', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2019/749
+92,Beyond Word Attention: Using Segment Attention in Neural Relation Extraction,Main,"['Information Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2019/750
+93,Adapting BERT for Target-Oriented Multimodal Sentiment Classification,Main,"['Natural Language Processing', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2019/751
+94,Modeling both Context- and Speaker-Sensitive Dependence for Emotion Detection in Multi-speaker Conversations,Main,"['Natural Language Processing', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2019/752
+95,Extracting Entities and Events as a Single Task Using a Transition-Based Neural Model,Main,"['Information Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2019/753
+96,Multi-view Knowledge Graph Embedding for Entity Alignment,Main,"['Embeddings', 'Knowledge Extraction']",https://www.ijcai.org/proceedings/2019/754
+97,Quantum-Inspired Interactive Networks for Conversational Sentiment Analysis,Main,"['Sentiment Analysis and Text Mining', 'Text Classification', 'Dialogue']",https://www.ijcai.org/proceedings/2019/755
+98,A Document-grounded Matching Network for Response Selection in Retrieval-based Chatbots,Main,"['Dialogue', 'Information Retrieval']",https://www.ijcai.org/proceedings/2019/756
+99,Recurrent Neural Network for Text Classification with Hierarchical Multiscale Dense Connections,Main,"['Natural Language Processing', 'Text Classification']",https://www.ijcai.org/proceedings/2019/757
+100,RLTM: An Efficient Neural IR Framework for Long Documents,Main,['Information Retrieval'],https://www.ijcai.org/proceedings/2019/758
+101,Dynamically Route Hierarchical Structure Representation to Attentive Capsule for Text Classification,Main,"['Text Classification', 'Sentiment Analysis and Text Mining', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2019/759
+102,Sequence Generation: From Both Sides to the Middle,Main,"['Natural Language Generation', 'Machine Translation', 'Natural Language Summarization']",https://www.ijcai.org/proceedings/2019/760
+103,Getting in Shape: Word Embedding SubSpaces,Main,"['Natural Language Processing', 'Embeddings']",https://www.ijcai.org/proceedings/2019/761
+104,A Span-based Joint Model for Opinion Target Extraction and Target Sentiment Classification,Main,['Sentiment Analysis and Text Mining'],https://www.ijcai.org/proceedings/2019/762
+105,Addressing Age-Related Bias in Sentiment Analysis,Best Sister Conferences,['Sentiment Analysis and Text Mining'],https://www.ijcai.org/proceedings/2019/852
+106,Deep Learning for Video Captioning: A Review,Survey,['Natural Language Generation'],https://www.ijcai.org/proceedings/2019/877
+107,Automated Essay Scoring: A Survey of the State of the Art,Survey,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2019/879
+108,A Survey of Reinforcement Learning Informed by Natural Language,Survey,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2019/880
+109,Social Media-based User Embedding: A Literature Review,Survey,['Embeddings'],https://www.ijcai.org/proceedings/2019/881
+110,What Does the Evidence Say? Models to Help Make Sense of the Biomedical Literature,Early Career,"['Natural Language Processing', 'Information Extraction']",https://www.ijcai.org/proceedings/2019/899
+111,"Technical, Hard and Explainable Question Answering (THE-QA)",Doctoral Consortium,"['Question Answering', 'Knowledge Extraction']",https://www.ijcai.org/proceedings/2019/916
+112,Entity Alignment for Cross-lingual Knowledge Graph with Graph Convolutional Networks,Doctoral Consortium,"['Embeddings', 'Named Entities']",https://www.ijcai.org/proceedings/2019/929

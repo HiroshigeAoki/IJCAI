@@ -1,0 +1,134 @@
+,title,track,categories,url
+0,Language to Action: Towards Interactive Task Learning with Physical Agents,Invited Speakers,['Natural Language Semantics'],https://www.ijcai.org/proceedings/2018/1
+1,Fine-grained Image Classification by  Visual-Semantic Embedding,Main,['Embeddings'],https://www.ijcai.org/proceedings/2018/145
+2,Learning Conceptual Space Representations of Interrelated Concepts,Main,['Embeddings'],https://www.ijcai.org/proceedings/2018/243
+3,Time-evolving Text Classification with Deep Neural Networks,Main,['Text Classification'],https://www.ijcai.org/proceedings/2018/310
+4,Neural Machine Translation with Key-Value Memory-Augmented Attention,Main,['Machine Translation'],https://www.ijcai.org/proceedings/2018/357
+5,ANRL: Attributed Network Representation Learning via Deep Neural Networks,Main,['Embeddings'],https://www.ijcai.org/proceedings/2018/438
+6,Interpretable Recommendation via Attraction Modeling: Learning Multilevel Attractiveness over Multimodal Movie Contents,Main,['Embeddings'],https://www.ijcai.org/proceedings/2018/472
+7,Hashtag2Vec: Learning Hashtag Representation with Relational Hierarchical Embedding Model,Main,"['Text Classification', 'Embeddings']",https://www.ijcai.org/proceedings/2018/480
+8,A Social Interaction Activity based Time-Varying User Vectorization Method for Online Social Networks,Main,['Embeddings'],https://www.ijcai.org/proceedings/2018/527
+9,Weakly Learning to Match Experts in Online Community,Main,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2018/534
+10,Translations as Additional Contexts for Sentence Classification,Main,"['NLP Applications and Tools', 'Sentiment Analysis and Text Mining', 'Text Classification']",https://www.ijcai.org/proceedings/2018/550
+11,Empirical Analysis of Foundational Distinctions in Linked Open Data,Main,['Knowledge Extraction'],https://www.ijcai.org/proceedings/2018/551
+12,"Think Globally, Embed Locally --- Locally Linear Meta-embedding of Words",Main,"['Natural Language Semantics', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/552
+13,An Encoder-Decoder Framework Translating Natural Language to Database Queries,Main,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2018/553
+14,Medical Concept Embedding with Time-Aware Attention,Main,['Embeddings'],https://www.ijcai.org/proceedings/2018/554
+15,Point Set Registration for Unsupervised Bilingual Lexicon Induction,Main,"['Machine Translation', 'Embeddings']",https://www.ijcai.org/proceedings/2018/555
+16,Co-training Embeddings of Knowledge Graphs and Entity Descriptions for Cross-lingual Entity Alignment,Main,['Embeddings'],https://www.ijcai.org/proceedings/2018/556
+17,TreeNet: Learning Sentence Representations with Unconstrained Tree Structure,Main,"['Natural Language Semantics', 'Natural Language Processing', 'Text Classification']",https://www.ijcai.org/proceedings/2018/557
+18,Adversarial Active  Learning for Sequences Labeling and Generation,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2018/558
+19,Submodularity-Inspired Data Selection for Goal-Oriented Chatbot Training Based on Sentence Embeddings ,Main,"['Natural Language Processing', 'NLP Applications and Tools', 'Tagging, chunking, and parsing', 'Embeddings']",https://www.ijcai.org/proceedings/2018/559
+20,Domain Adaptation via Tree Kernel Based Maximum Mean Discrepancy for User Consumption Intention Identification,Main,"['Information Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/560
+21,Attention-Fused Deep Matching Network for Natural Language Inference,Main,"['Natural Language Semantics', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/561
+22,A Deep Modular RNN Approach for Ethos Mining,Main,"['Natural Language Processing', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2018/562
+23,A Question Type Driven Framework to Diversify Visual Question Generation,Main,['Natural Language Generation'],https://www.ijcai.org/proceedings/2018/563
+24,Efficient Pruning of Large  Knowledge Graphs,Main,['Knowledge Extraction'],https://www.ijcai.org/proceedings/2018/564
+25,Extracting Action Sequences from Texts Based on Deep Reinforcement Learning,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2018/565
+26,Improving Low Resource Named Entity Recognition using Cross-lingual Knowledge Transfer,Main,"['Information Extraction', 'Named Entities']",https://www.ijcai.org/proceedings/2018/566
+27,Topic-to-Essay Generation with Neural Networks,Main,['Natural Language Generation'],https://www.ijcai.org/proceedings/2018/567
+28,EZLearn: Exploiting Organic Supervision in Automated Data Annotation,Main,['Text Classification'],https://www.ijcai.org/proceedings/2018/568
+29,Approximating Word Ranking and Negative Sampling for Word Embedding,Main,"['Natural Language Semantics', 'Embeddings']",https://www.ijcai.org/proceedings/2018/569
+30,Reinforced Mnemonic Reader for Machine Reading Comprehension,Main,['Question Answering'],https://www.ijcai.org/proceedings/2018/570
+31,Improving Entity Recommendation with Search Log and Multi-Task Learning,Main,"['Information Retrieval', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/571
+32,Goal-Oriented Chatbot Dialog Management Bootstrapping with Transfer Learning,Main,['Dialogue'],https://www.ijcai.org/proceedings/2018/572
+33,Mitigating the Effect of Out-of-Vocabulary Entity Pairs in Matrix Factorization for KB Inference,Main,"['Information Extraction', 'Knowledge Extraction', 'Embeddings']",https://www.ijcai.org/proceedings/2018/573
+34,Learning to Give Feedback: Modeling Attributes Affecting Argument Persuasiveness in Student Essays,Main,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2018/574
+35,ACV-tree: A New  Method for  Sentence Similarity Modeling,Main,"['Natural Language Semantics', 'Natural Language Processing', 'Embeddings']",https://www.ijcai.org/proceedings/2018/575
+36,An Adaptive Hierarchical Compositional Model for Phrase Embedding,Main,"['Natural Language Processing', 'Embeddings']",https://www.ijcai.org/proceedings/2018/576
+37,Multi-modal Sentence Summarization with Modality Attention and Image Filtering,Main,"['Natural Language Summarization', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/577
+38,Code Completion with Neural Attention and Pointer Networks,Main,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2018/578
+39,SegBot: A Generic Neural Text Segmentation Model with Pointer Network,Main,"['Discourse', 'NLP Applications and Tools', 'Tagging, chunking, and parsing']",https://www.ijcai.org/proceedings/2018/579
+40,Adaboost with Auto-Evaluation for Conversational Models,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2018/580
+41,Non-translational Alignment for Multi-relational Networks,Main,['Embeddings'],https://www.ijcai.org/proceedings/2018/581
+42,Learning Word Vectors with Linear Constraints: A Matrix Factorization Approach,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2018/582
+43,Aspect Term Extraction with History Attention and Selective Transformation,Main,"['Natural Language Processing', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2018/583
+44,Constructing Narrative Event Evolutionary Graph for Script Event Prediction,Main,"['Natural Language Processing', 'Information Extraction']",https://www.ijcai.org/proceedings/2018/584
+45,Deep Text Classification Can be Fooled,Main,['Text Classification'],https://www.ijcai.org/proceedings/2018/585
+46,Feature Enhancement in Attention for Visual Question Answering,Main,['Question Answering'],https://www.ijcai.org/proceedings/2018/586
+47,Curriculum Learning for Natural Answer Generation,Main,"['Dialogue', 'Natural Language Generation', 'Natural Language Processing', 'Question Answering']",https://www.ijcai.org/proceedings/2018/587
+48,Learning to Explain Ambiguous Headlines of Online News,Main,"['Natural Language Processing', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2018/588
+49,Jumper: Learning When to Make Classification Decision in Reading,Main,"['Natural Language Processing', 'Text Classification']",https://www.ijcai.org/proceedings/2018/589
+50,Beyond Polarity: Interpretable Financial Sentiment Analysis with Hierarchical Query-driven Attention,Main,['Sentiment Analysis and Text Mining'],https://www.ijcai.org/proceedings/2018/590
+51,A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification,Main,"['Natural Language Processing', 'Natural Language Summarization', 'Sentiment Analysis and Text Mining', 'Text Classification']",https://www.ijcai.org/proceedings/2018/591
+52,Show and Tell More: Topic-Oriented Multi-Sentence Image Captioning,Main,['Natural Language Generation'],https://www.ijcai.org/proceedings/2018/592
+53,Answering Mixed Type Questions about Daily Living Episodes,Main,"['Question Answering', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2018/593
+54,ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions,Main,"['Natural Language Processing', 'Question Answering']",https://www.ijcai.org/proceedings/2018/594
+55,Assigning Personality/Profile to a Chatting Machine for Coherent Conversation Generation,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2018/595
+56,Translating Embeddings for Knowledge Graph Completion with Relation Attention Mechanism,Main,"['Knowledge Extraction', 'Embeddings']",https://www.ijcai.org/proceedings/2018/596
+57,Event Factuality Identification  via Generative Adversarial Networks with Auxiliary Classification,Main,"['Information Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/597
+58,Inferring Temporal Knowledge for Near-Periodic Recurrent Events,Main,"['Information Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/598
+59,Learning Out-of-Vocabulary Words in Intelligent Personal Agents,Main,"['Natural Language Semantics', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2018/599
+60,Joint Posterior Revision of NLP Annotations via Ontological Knowledge,Main,"['NLP Applications and Tools', 'Knowledge Extraction', 'Named Entities']",https://www.ijcai.org/proceedings/2018/600
+61,Interpretable Adversarial Perturbation in Input Embedding Space for Text,Main,"['Natural Language Processing', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2018/601
+62,Functional Partitioning of Ontologies for Natural Language Query Completion in Question Answering Systems,Main,"['Question Answering', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2018/602
+63,Learning to Converse with Noisy Data: Generation with Calibration,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2018/603
+64,Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling,Main,"['Natural Language Processing', 'Text Classification']",https://www.ijcai.org/proceedings/2018/604
+65,"Listen, Think and Listen Again: Capturing Top-down Auditory Attention for Speaker-independent Speech Separation",Main,['Speech'],https://www.ijcai.org/proceedings/2018/605
+66,Toward Diverse Text Generation with Inverse Reinforcement Learning,Main,['Natural Language Generation'],https://www.ijcai.org/proceedings/2018/606
+67,Complementary Learning of Word Embeddings,Main,"['Natural Language Processing', 'Embeddings']",https://www.ijcai.org/proceedings/2018/607
+68,Joint Learning Embeddings for Chinese Words and their Components via Ladder Structured Networks,Main,"['Natural Language Processing', 'Embeddings']",https://www.ijcai.org/proceedings/2018/608
+69,An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems,Main,['Dialogue'],https://www.ijcai.org/proceedings/2018/609
+70,Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction,Main,"['Information Extraction', 'Knowledge Extraction']",https://www.ijcai.org/proceedings/2018/610
+71,Bootstrapping Entity Alignment with Knowledge Graph Embedding,Main,['Embeddings'],https://www.ijcai.org/proceedings/2018/611
+72,A Weakly Supervised Method for Topic Segmentation and Labeling in Goal-oriented Dialogues via Reinforcement Learning,Main,"['Dialogue', 'Natural Language Processing', 'NLP Applications and Tools', 'Text Classification']",https://www.ijcai.org/proceedings/2018/612
+73,Multiway Attention Networks for Modeling Sentence Pairs,Main,"['Question Answering', 'Text Classification']",https://www.ijcai.org/proceedings/2018/613
+74,Get The Point of My Utterance! Learning Towards Effective Responses with Multi-Head Attention Mechanism,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2018/614
+75,Hermitian Co-Attention Networks for Text Matching in Asymmetrical Domains,Main,"['Natural Language Processing', 'Question Answering']",https://www.ijcai.org/proceedings/2018/615
+76,"One ""Ruler"" for All Languages: Multi-Lingual Dialogue Evaluation with Adversarial Multi-Task Learning",Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2018/616
+77,Aspect Sentiment Classification with both Word-level and Clause-level Attention Networks,Main,"['NLP Applications and Tools', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2018/617
+78,SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks,Main,"['Natural Language Generation', 'Natural Language Processing', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2018/618
+79,A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization,Main,['Natural Language Summarization'],https://www.ijcai.org/proceedings/2018/619
+80,Joint Extraction of Entities and Relations Based on a Novel Graph Scheme,Main,"['Information Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/620
+81,Densely Connected CNN with Multi-scale Feature Attention for Text Classification,Main,"['Natural Language Semantics', 'Natural Language Processing', 'Text Classification', 'Embeddings']",https://www.ijcai.org/proceedings/2018/621
+82,Transition-based Adversarial Network for Cross-lingual Aspect Extraction,Main,['Sentiment Analysis and Text Mining'],https://www.ijcai.org/proceedings/2018/622
+83,Quality Matters: Assessing cQA Pair Quality via Transductive Multi-View Learning,Main,['Question Answering'],https://www.ijcai.org/proceedings/2018/623
+84,Instance Weighting with Applications to Cross-domain Text Classification via Trading off Sample Selection Bias and Variance,Main,"['Sentiment Analysis and Text Mining', 'Text Classification']",https://www.ijcai.org/proceedings/2018/624
+85,Transformable Convolutional Neural Network for Text Classification,Main,"['Natural Language Processing', 'Sentiment Analysis and Text Mining', 'Text Classification']",https://www.ijcai.org/proceedings/2018/625
+86,Scheduled Policy Optimization for Natural Language Communication with Intelligent Agents,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2018/626
+87,Lifelong Domain Word Embedding via Meta-Learning,Main,"['Text Classification', 'Embeddings']",https://www.ijcai.org/proceedings/2018/627
+88,Enhancing Semantic Representations of Bilingual Word Embeddings with Syntactic Dependencies,Main,"['Natural Language Processing', 'NLP Applications and Tools', 'Text Classification', 'Embeddings']",https://www.ijcai.org/proceedings/2018/628
+89,Smarter Response with Proactive Suggestion: A New Generative Neural Conversation Paradigm,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2018/629
+90,Ensemble Neural Relation Extraction with Adaptive Boosting,Main,"['Information Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/630
+91,Generating Thematic Chinese Poetry using Conditional Variational Autoencoders with Hybrid Decoders,Main,['Natural Language Generation'],https://www.ijcai.org/proceedings/2018/631
+92,Teaching Machines to Ask Questions,Main,"['Natural Language Processing', 'Question Answering', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2018/632
+93,Chinese Poetry Generation with a Working Memory Model,Main,"['Natural Language Generation', 'Psycholinguistics']",https://www.ijcai.org/proceedings/2018/633
+94,Biased Random Walk based Social Regularization for Word Embeddings,Main,"['Sentiment Analysis and Text Mining', 'Embeddings']",https://www.ijcai.org/proceedings/2018/634
+95,Reinforcing Coherence for Sequence to Sequence Model in Dialogue Generation,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2018/635
+96,Weakly Supervised Audio Source Separation via Spectrum Energy Preserved Wasserstein Learning,Main,['Speech'],https://www.ijcai.org/proceedings/2018/636
+97,Learning Tag Dependencies for Sequence Tagging,Main,"['Phonology, Morphology, and word segmentation', 'Tagging, chunking, and parsing', 'Named Entities']",https://www.ijcai.org/proceedings/2018/637
+98,Towards Reading Comprehension for Long Documents,Main,"['Natural Language Processing', 'Question Answering', 'Coreference Resolution']",https://www.ijcai.org/proceedings/2018/638
+99,Text Emotion Distribution Learning via Multi-Task Convolutional Neural Network,Main,['Sentiment Analysis and Text Mining'],https://www.ijcai.org/proceedings/2018/639
+100,Neural Networks Incorporating Unlabeled and Partially-labeled Data for Cross-domain Chinese Word Segmentation,Main,"['Phonology, Morphology, and word segmentation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/640
+101,Phrase Table as Recommendation Memory for Neural Machine Translation,Main,"['Machine Translation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/641
+102,"Same Representation, Different Attentions: Shareable Sentence Representation Learning from Multiple Tasks",Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2018/642
+103,Commonsense Knowledge Aware Conversation Generation with Graph Attention,Main,"['Dialogue', 'Natural Language Generation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/643
+104,Differentiated Attentive Representation Learning for Sentence Classification,Main,"['Sentiment Analysis and Text Mining', 'Text Classification']",https://www.ijcai.org/proceedings/2018/644
+105,Improving Information Extraction from Images with Learned Semantic Models,Best Sister Conferences,['Information Extraction'],https://www.ijcai.org/proceedings/2018/724
+106,Learning with Sparse and Biased Feedback for Personal Search,Best Sister Conferences,['Information Retrieval'],https://www.ijcai.org/proceedings/2018/725
+107,Accelerating Innovation Through Analogy Mining,Best Sister Conferences,"['Information Retrieval', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2018/736
+108,Unbiased Learning-to-Rank with Biased Feedback,Best Sister Conferences,['Information Retrieval'],https://www.ijcai.org/proceedings/2018/738
+109,Evaluating and Complementing Vision-to-Language Technology for People who are Blind with Conversational Crowdsourcing,Best Sister Conferences,['Resources and Evaluation'],https://www.ijcai.org/proceedings/2018/751
+110,Recursive Spoken Instruction-Based One-Shot Object and Action Learning,Best Sister Conferences,['Dialogue'],https://www.ijcai.org/proceedings/2018/752
+111,A Conversational Approach to Process-oriented Case-based Reasoning,Best Sister Conferences,['Dialogue'],https://www.ijcai.org/proceedings/2018/762
+112,Five Years of Argument Mining: a Data-driven Analysis,Survey,['Natural Language Processing'],https://www.ijcai.org/proceedings/2018/766
+113,Event Coreference Resolution: A Survey of Two Decades of Research,Survey,"['Information Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/773
+114,"""Chitty-Chitty-Chat Bot"": Deep Learning for Conversational AI",Survey,"['Dialogue', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/778
+115,From Feature to Paradigm: Deep Learning in Machine Translation (Extended Abstract),Journal,['Machine Translation'],https://www.ijcai.org/proceedings/2018/789
+116,Visualisation and 'Diagnostic Classifiers' Reveal how Recurrent and Recursive Neural Networks Process Hierarchical Structure (Extended Abstract),Journal,['Natural Language Semantics'],https://www.ijcai.org/proceedings/2018/796
+117,Lightweight Random Indexing for Polylingual Text Classification (Extended Abstract),Journal,['Text Classification'],https://www.ijcai.org/proceedings/2018/801
+118,Distributional Correspondence Indexing for Cross-Lingual and Cross-Domain Sentiment Classification (Extended Abstract),Journal,"['Text Classification', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2018/802
+119,Grounded Language Learning: Where Robotics and NLP Meet,Early Career,['Natural Language Processing'],https://www.ijcai.org/proceedings/2018/810
+120,Natural Language Understanding: Instructions for (Present and Future) Use,Early Career,"['Natural Language Semantics', 'Resources and Evaluation']",https://www.ijcai.org/proceedings/2018/812
+121,Artificial Argumentation for Humans,Early Career,['Natural Language Processing'],https://www.ijcai.org/proceedings/2018/818
+122,Conversational Explanations of Machine Learning Predictions Through Class-contrastive Counterfactual Statements,Doctoral Consortium,['Dialogue'],https://www.ijcai.org/proceedings/2018/836
+123,Hatebusters: A Web Application for Actively Reporting YouTube Hate Speech,Demos,['Text Classification'],https://www.ijcai.org/proceedings/2018/841
+124,Repairing ASR output by Artificial Development and Ontology based Learning,Demos,"['Speech', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/842
+125,Instructing Novice Users on How to Use Tools in DIY Projects,Demos,['Dialogue'],https://www.ijcai.org/proceedings/2018/844
+126,TuringBox: An Experimental Platform for the Evaluation of AI Systems,Demos,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2018/851
+127,CISA: Chinese Information Structure Analysis for Scientific Writing with Cross-lingual Adversarial Learning,Demos,"['Natural Language Processing', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2018/853
+128,Aesop: A Visual Storytelling Platform for Conversational AI,Demos,"['Dialogue', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2018/857
+129,Extracting Latent Beliefs and using Epistemic Reasoning to Tailor a Chatbot,Demos,"['Dialogue', 'Natural Language Semantics', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2018/860
+130,Glass-Box: Explaining AI Decisions With Counterfactual Statements Through Conversation With a Voice-enabled Virtual Assistant,Demos,['Dialogue'],https://www.ijcai.org/proceedings/2018/865
+131,Readitopics: Make Your Topic Models Readable via Labeling and Browsing,Demos,"['NLP Applications and Tools', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2018/867
+132,Using a Deep Learning Dialogue Research Toolkit in a Multilingual Multidomain Practical Application,Demos,"['Speech', 'Dialogue', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2018/869

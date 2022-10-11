@@ -1,0 +1,35 @@
+,title,track,categories,url
+0,"Exemplification Modeling: Can You Give Me an Example, Please?",Main,"['Natural Language Semantics', 'Resources and Evaluation']",https://www.ijcai.org/proceedings/2021/520
+1,Generating Senses and RoLes: An End-to-End Model for Dependency- and Span-based Semantic Role Labeling,Main,"['Natural Language Semantics', 'Natural Language Generation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2021/521
+2,Improving Context-Aware Neural Machine Translation with Source-side Monolingual Documents,Main,['Machine Translation'],https://www.ijcai.org/proceedings/2021/522
+3,Focus on Interaction: A Novel Dynamic Graph Model for Joint Multiple Intent Detection and Slot Filling,Main,"['Dialogue', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2021/523
+4,Dialogue Discourse-Aware Graph Model and Data Augmentation for Meeting Summarization,Main,"['Natural Language Summarization', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2021/524
+5,Automatically Paraphrasing via Sentence Reconstruction and  Round-trip Translation,Main,"['Machine Translation', 'Natural Language Generation', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2021/525
+6,Dialogue Disentanglement in Software Engineering: How Far are We?,Main,"['Dialogue', 'NLP Applications and Tools', 'Resources and Evaluation']",https://www.ijcai.org/proceedings/2021/526
+7,FedSpeech: Federated Text-to-Speech with Continual Learning,Main,['Speech'],https://www.ijcai.org/proceedings/2021/527
+8,ALaSca: an Automated approach for Large-Scale Lexical Substitution,Main,"['Natural Language Semantics', 'Resources and Evaluation']",https://www.ijcai.org/proceedings/2021/528
+9,Enhancing Label Representations with Relational Inductive Bias Constraint for Fine-Grained Entity Typing,Main,"['Named Entities', 'Natural Language Processing', 'Text Classification']",https://www.ijcai.org/proceedings/2021/529
+10,Modelling General Properties of Nouns by Selectively Averaging Contextualised Embeddings,Main,"['Natural Language Semantics', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2021/530
+11,Asynchronous Multi-grained Graph Network For Interpretable Multi-hop Reading Comprehension,Main,"['Natural Language Processing', 'Question Answering']",https://www.ijcai.org/proceedings/2021/531
+12,Keep the Structure: A Latent Shift-Reduce Parser for Semantic Parsing,Main,['Natural Language Semantics'],https://www.ijcai.org/proceedings/2021/532
+13,Discourse-Level Event Temporal Ordering with Uncertainty-Guided Graph Completion,Main,"['Information Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2021/533
+14,Improving Text Generation with Dynamic Masking and Recovering,Main,"['Machine Translation', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2021/534
+15,Consistent Inference for Dialogue Relation Extraction,Main,"['Information Extraction', 'Dialogue']",https://www.ijcai.org/proceedings/2021/535
+16,Multi-Hop Fact Checking of Political Claims,Main,"['NLP Applications and Tools', 'Resources and Evaluation', 'Text Classification']",https://www.ijcai.org/proceedings/2021/536
+17,Laughing Heads: Can Transformers Detect What Makes a Sentence Funny?,Main,"['Natural Language Semantics', 'Resources and Evaluation']",https://www.ijcai.org/proceedings/2021/537
+18,A Streaming End-to-End Framework For Spoken Language Understanding,Main,"['Dialogue', 'Speech']",https://www.ijcai.org/proceedings/2021/538
+19,MultiMirror: Neural Cross-lingual Word Alignment for Multilingual Word Sense Disambiguation,Main,"['Natural Language Semantics', 'Resources and Evaluation']",https://www.ijcai.org/proceedings/2021/539
+20,Learning Class-Transductive Intent Representations for Zero-shot Intent Detection,Main,"['Natural Language Processing', 'Text Classification']",https://www.ijcai.org/proceedings/2021/540
+21,MEDA: Meta-Learning with Data Augmentation for Few-Shot Text Classification,Main,"['Natural Language Processing', 'Text Classification']",https://www.ijcai.org/proceedings/2021/541
+22,A Sequence-to-Set Network for Nested Named Entity Recognition,Main,"['Information Extraction', 'Named Entities']",https://www.ijcai.org/proceedings/2021/542
+23,A Structure Self-Aware Model for Discourse Parsing on Multi-Party Dialogues,Main,"['Dialogue', 'Discourse', 'Tagging, Chunking, and Parsing']",https://www.ijcai.org/proceedings/2021/543
+24,Hierarchical Modeling of Label Dependency and Label Noise in Fine-grained Entity Typing,Main,"['Information Extraction', 'Named Entities', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2021/544
+25,Learn from Syntax: Improving Pair-wise Aspect and Opinion Terms Extraction with Rich Syntactic Knowledge,Main,"['Information Extraction', 'Natural Language Semantics', 'Sentiment Analysis and Text Mining']",https://www.ijcai.org/proceedings/2021/545
+26,Knowledge-Aware Dialogue Generation via Hierarchical Infobox Accessing and Infobox-Dialogue Interaction Graph Network,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2021/546
+27,Improving Stylized Neural Machine Translation with Iterative Dual Knowledge Transfer,Main,"['Machine Translation', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2021/547
+28,UniMF: A Unified Framework to Incorporate Multimodal Knowledge Bases intoEnd-to-End Task-Oriented Dialogue Systems,Main,"['Dialogue', 'Information Retrieval', 'Knowledge Extraction']",https://www.ijcai.org/proceedings/2021/548
+29,MRD-Net: Multi-Modal Residual Knowledge Distillation for Spoken Question Answering,Main,"['Question Answering', 'Sentiment Analysis and Text Mining', 'Speech']",https://www.ijcai.org/proceedings/2021/549
+30,Cross-Domain Slot Filling as Machine Reading Comprehension,Main,"['Dialogue', 'Information Extraction']",https://www.ijcai.org/proceedings/2021/550
+31,Document-level Relation Extraction as Semantic Segmentation,Main,"['Information Extraction', 'Knowledge Extraction']",https://www.ijcai.org/proceedings/2021/551
+32,"Drop Redundant, Shrink Irrelevant: Selective Knowledge Injection for Language Pretraining",Main,"['Information Extraction', 'Natural Language Processing', 'Question Answering']",https://www.ijcai.org/proceedings/2021/552
+33,Relational Gating for ''What If'' Reasoning,Main,['Question Answering'],https://www.ijcai.org/proceedings/2021/553

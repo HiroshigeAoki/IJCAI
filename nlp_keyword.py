@@ -1,4 +1,3 @@
-from pip import main
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -9,7 +8,7 @@ import joblib
 
 os.makedirs('./csv/nlp', exist_ok=True)
 
-# Keywordに"Natural Language Processing"を含むもの。
+# Proceedingsの論文でKeywordに"Natural Language Processing"を含むもの。
 
 years = [2022, 2021, 2020, 2019, 2018, 2017]
 
@@ -49,7 +48,6 @@ def extract_nlp(year):
             url=urls,            
         )
     ).to_csv(f'./csv/nlp/{year}.csv')
-    print(f'done: {year}')
 
 
 def main():

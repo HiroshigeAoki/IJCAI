@@ -1,0 +1,125 @@
+,title,track,categories,url
+0,WEFE: The Word Embeddings Fairness Evaluation Framework,Main,"['Embeddings', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2020/60
+1,Metamorphic Testing and Certified Mitigation of Fairness Violations in NLP Models,Main,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2020/64
+2,EViLBERT: Learning Task-Agnostic Multimodal Sense Embeddings,Main,"['Embeddings', 'Natural Language Semantics']",https://www.ijcai.org/proceedings/2020/67
+3,Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data,Main,['Speech'],https://www.ijcai.org/proceedings/2020/78
+4,Human Consensus-Oriented Image Captioning,Main,['Machine Translation'],https://www.ijcai.org/proceedings/2020/92
+5,"DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue",Main,['Dialogue'],https://www.ijcai.org/proceedings/2020/96
+6,Non-Autoregressive Image Captioning with Counterfactuals-Critical Multi-Agent Learning,Main,['Natural Language Generation'],https://www.ijcai.org/proceedings/2020/107
+7,Video Question Answering on Screencast Tutorials,Main,['Question Answering'],https://www.ijcai.org/proceedings/2020/148
+8,GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension,Main,"['Dialogue', 'Question Answering']",https://www.ijcai.org/proceedings/2020/171
+9,Evidence-Aware Hierarchical Interactive Attention Networks for Explainable Claim Verification,Main,"['Sentiment Analysis and Text Mining', 'Text Classification']",https://www.ijcai.org/proceedings/2020/193
+10,Joint Representation Learning of Legislator and Legislation for Roll Call Prediction,Main,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2020/198
+11,Entity Synonym Discovery via Multipiece Bilateral Context Matching,Main,"['Named Entities', 'Natural Language Processing', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2020/199
+12,Exploration Based Language Learning for Text-Based Games,Main,"['NLP Applications and Tools', 'Other']",https://www.ijcai.org/proceedings/2020/207
+13,Solving Analogies on Words based on Minimal Complexity Transformation,Main,"['Phonology, Morphology, and word segmentation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/256
+14,Effective Search of Logical Forms for Weakly Supervised Knowledge-Based Question Answering,Main,['Natural Language Semantics'],https://www.ijcai.org/proceedings/2020/308
+15,Logic Constrained Pointer Networks for Interpretable Textual Similarity,Main,"['Natural Language Processing', 'Natural Language Semantics']",https://www.ijcai.org/proceedings/2020/333
+16,AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2020/341
+17,Argot: Generating Adversarial Readable Chinese Texts,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2020/351
+18,Textual Membership Queries,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2020/369
+19,Adaptively Multi-Objective Adversarial Training for Dialogue Generation,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2020/397
+20,TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure,Main,['Embeddings'],https://www.ijcai.org/proceedings/2020/413
+21,Towards Explainable Conversational Recommendation,Main,['Natural Language Generation'],https://www.ijcai.org/proceedings/2020/414
+22,RDF-to-Text Generation with Graph-augmented Structural Neural Encoders,Main,['Natural Language Generation'],https://www.ijcai.org/proceedings/2020/419
+23,Generating Robust Audio Adversarial Examples with Temporal Dependency,Main,['Speech'],https://www.ijcai.org/proceedings/2020/438
+24,Multi-Scale Group Transformer for Long Sequence Modeling in Speech Separation,Main,['Speech'],https://www.ijcai.org/proceedings/2020/450
+25,A Label Attention Model for ICD Coding from Clinical Text,Main,['Text Classification'],https://www.ijcai.org/proceedings/2020/461
+26,The Graph-based Mutual Attentive Network for Automatic Diagnosis,Main,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2020/469
+27,Automatic Emergency Diagnosis with Knowledge-Based Tree Decoding,Main,"['Text Classification', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2020/471
+28,BERT-PLI: Modeling Paragraph-Level Interactions for Legal Case Retrieval,Main,['Information Retrieval'],https://www.ijcai.org/proceedings/2020/484
+29,Hierarchical Linear Disentanglement of Data-Driven Conceptual Spaces,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2020/494
+30,How Far are We from Effective Context Modeling? An Exploratory Study on Semantic Parsing in Context,Main,"['Natural Language Semantics', 'Coreference Resolution', 'Dialogue', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/495
+31,Lexical-Constraint-Aware Neural Machine Translation via Data Augmentation,Main,"['Machine Translation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/496
+32,Attention-based Multi-level Feature Fusion for Named Entity Recognition,Main,"['Information Extraction', 'Tagging, chunking, and parsing', 'Named Entities', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/497
+33,Exemplar Guided Neural Dialogue Generation,Main,"['Dialogue', 'Natural Language Generation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/498
+34,Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations,Main,"['Information Extraction', 'Knowledge Extraction', 'Discourse']",https://www.ijcai.org/proceedings/2020/499
+35,Two-Phase Hypergraph Based Reasoning with Dynamic Relations for Multi-Hop KBQA,Main,['Question Answering'],https://www.ijcai.org/proceedings/2020/500
+36,LogiQA: A Challenge Dataset for Machine Reading Comprehension with Logical Reasoning,Main,"['Resources and Evaluation', 'Question Answering']",https://www.ijcai.org/proceedings/2020/501
+37,Guided Generation of Cause and Effect,Main,"['Natural Language Generation', 'Knowledge Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/502
+38,EmoElicitor: An Open Domain Response Generation Model with User Emotional Reaction Awareness,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2020/503
+39,RECPARSER: A Recursive Semantic Parsing Framework for Text-to-SQL Task,Main,"['Natural Language Generation', 'Natural Language Processing', 'Natural Language Semantics']",https://www.ijcai.org/proceedings/2020/504
+40,Learning Latent Forests for Medical Relation Extraction,Main,"['Information Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/505
+41,Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment,Main,"['Embeddings', 'Named Entities', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/506
+42,Hierarchical Matching Network for Heterogeneous Entity Resolution,Main,"['Coreference Resolution', 'Information Extraction']",https://www.ijcai.org/proceedings/2020/507
+43,Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model,Main,['Sentiment Analysis and Text Mining'],https://www.ijcai.org/proceedings/2020/508
+44,"Retrieve, Program, Repeat: Complex Knowledge Base Question Answering via Alternate Meta-learning",Main,"['Natural Language Processing', 'Question Answering']",https://www.ijcai.org/proceedings/2020/509
+45,Generating Reasonable Legal Text through the Combination of Language Modeling and Question Answering,Main,"['Natural Language Generation', 'Question Answering', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2020/510
+46,Modeling Voting for System Combination in Machine Translation,Main,"['Machine Translation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/511
+47,Unsupervised Multilingual Alignment using Wasserstein Barycenter,Main,['Machine Translation'],https://www.ijcai.org/proceedings/2020/512
+48,A De Novo Divide-and-Merge Paradigm for Acoustic Model Optimization in Automatic Speech Recognition,Main,['Speech'],https://www.ijcai.org/proceedings/2020/513
+49,Neural Abstractive Summarization with Structural Attention,Main,"['Natural Language Summarization', 'Other']",https://www.ijcai.org/proceedings/2020/514
+50,Domain Adaptation for Semantic Parsing,Main,"['Natural Language Processing', 'Natural Language Semantics']",https://www.ijcai.org/proceedings/2020/515
+51,Evaluating Natural Language Generation via Unbalanced Optimal Transport,Main,"['Natural Language Generation', 'Machine Translation', 'Dialogue']",https://www.ijcai.org/proceedings/2020/516
+52,Modeling Topical Relevance for Multi-Turn Dialogue Generation,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2020/517
+53,Robust Front-End for Multi-Channel ASR using Flow-Based Density Estimation,Main,['Speech'],https://www.ijcai.org/proceedings/2020/518
+54,Formal Query Building with Query Structure Prediction for Complex Question Answering over Knowledge Base,Main,"['Natural Language Processing', 'Question Answering']",https://www.ijcai.org/proceedings/2020/519
+55,Towards Fully 8-bit Integer Inference for the Transformer Model,Main,"['Natural Language Processing', 'Machine Translation']",https://www.ijcai.org/proceedings/2020/520
+56,TopicKA: Generating Commonsense Knowledge-Aware Dialogue Responses Towards the Recommended Topic Fact,Main,"['Dialogue', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2020/521
+57,Infobox-to-text Generation with Tree-like Planning based Attention Network,Main,"['Natural Language Generation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/522
+58,Triple-to-Text Generation with an Anchor-to-Prototype Framework,Main,"['Natural Language Generation', 'Natural Language Processing', 'NLP Applications and Tools', 'Other']",https://www.ijcai.org/proceedings/2020/523
+59,Attention as Relation: Learning Supervised Multi-head Self-Attention for Relation Extraction,Main,"['Information Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/524
+60,An Iterative Multi-Source Mutual Knowledge Transfer Framework for Machine Reading Comprehension,Main,"['Natural Language Processing', 'Question Answering']",https://www.ijcai.org/proceedings/2020/525
+61,Text Style Transfer via Learning Style Instance Supported Latent Space,Main,"['Natural Language Generation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/526
+62,Learning with Noise: Improving Distantly-Supervised Fine-grained Entity Typing via Automatic Relabeling,Main,"['Information Extraction', 'Named Entities', 'Natural Language Processing', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2020/527
+63,Joint Time-Frequency and Time Domain Learning for Speech Enhancement,Main,['Speech'],https://www.ijcai.org/proceedings/2020/528
+64,Answer Generation through Unified Memories over Multiple Passages,Main,"['Natural Language Generation', 'Natural Language Processing', 'Question Answering']",https://www.ijcai.org/proceedings/2020/529
+65,On the Importance of Word and Sentence Representation Learning in Implicit Discourse Relation Classification,Main,['Discourse'],https://www.ijcai.org/proceedings/2020/530
+66,MuLaN: Multilingual Label propagatioN for Word Sense Disambiguation,Main,"['Natural Language Semantics', 'Resources and Evaluation']",https://www.ijcai.org/proceedings/2020/531
+67,Dialogue State Induction Using Neural Latent Variable Models,Main,['Dialogue'],https://www.ijcai.org/proceedings/2020/532
+68,CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation  for Zero-Shot Cross-Lingual NLP,Main,['Natural Language Processing'],https://www.ijcai.org/proceedings/2020/533
+69,Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation,Main,['Machine Translation'],https://www.ijcai.org/proceedings/2020/534
+70,End-to-End Transition-Based Online Dialogue Disentanglement,Main,"['Dialogue', 'Information Extraction', 'Information Retrieval']",https://www.ijcai.org/proceedings/2020/535
+71,Hierarchical Multi-task Learning for Organization Evaluation of Argumentative Student Essays,Main,"['Discourse', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2020/536
+72,Transformers as Soft Reasoners over Language,Main,['Question Answering'],https://www.ijcai.org/proceedings/2020/537
+73,Neural Machine Translation with Error Correction,Main,"['Machine Translation', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2020/538
+74,Alleviate Dataset Shift Problem in Fine-grained Entity Typing with Virtual Adversarial Training,Main,"['Information Extraction', 'Named Entities', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/539
+75,Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network,Main,"['Natural Language Processing', 'Question Answering']",https://www.ijcai.org/proceedings/2020/540
+76,Gaussian Embedding of Linked Documents from a Pretrained Semantic Space,Main,['Embeddings'],https://www.ijcai.org/proceedings/2020/541
+77,Better AMR-To-Text Generation with Graph Structure Reconstruction,Main,"['Natural Language Generation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/542
+78,UniTrans : Unifying Model Transfer and Data Transfer for Cross-Lingual Named Entity Recognition with Unlabeled Data,Main,"['Information Extraction', 'Named Entities', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/543
+79,Efficient Context-Aware Neural Machine Translation with Layer-Wise Weighting and Input-Aware Gating,Main,['Machine Translation'],https://www.ijcai.org/proceedings/2020/544
+80,Enhancing Dialog Coherence with Event Graph Grounded Content Planning,Main,['Dialogue'],https://www.ijcai.org/proceedings/2020/545
+81,Asking Effective and Diverse Questions: A Machine Reading Comprehension based Framework for Joint Entity-Relation Extraction,Main,"['Information Extraction', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/546
+82,Exploring Bilingual Parallel Corpora for Syntactically Controllable Paraphrase Generation,Main,"['Natural Language Generation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/547
+83,A Structured Latent Variable Recurrent Network With Stochastic Attention For Generating Weibo Comments,Main,"['Natural Language Generation', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2020/548
+84,Dataless Short Text Classification Based on Biterm Topic Model and Word Embeddings,Main,['Text Classification'],https://www.ijcai.org/proceedings/2020/549
+85,Leveraging Document-Level Label Consistency for Named Entity Recognition,Main,"['Named Entities', 'Tagging, chunking, and parsing']",https://www.ijcai.org/proceedings/2020/550
+86,Towards Making the Most of Context in Neural Machine Translation,Main,['Machine Translation'],https://www.ijcai.org/proceedings/2020/551
+87,Hype-HAN: Hyperbolic Hierarchical Attention Network for Semantic Embedding,Main,"['Embeddings', 'Text Classification']",https://www.ijcai.org/proceedings/2020/552
+88,ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation,Main,"['Natural Language Generation', 'Natural Language Processing', 'Natural Language Summarization']",https://www.ijcai.org/proceedings/2020/553
+89,TransOMCS: From Linguistic Graphs to Commonsense Knowledge,Main,"['Knowledge Extraction', 'Resources and Evaluation']",https://www.ijcai.org/proceedings/2020/554
+90,Teacher-Student Networks with Multiple Decoders for Solving Math Word Problem,Main,"['Natural Language Generation', 'Question Answering']",https://www.ijcai.org/proceedings/2020/555
+91,Generalized Zero-Shot Text Classification for ICD Coding,Main,"['Text Classification', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2020/556
+92,Gated POS-Level Language Model for Authorship Verification,Main,"['Natural Language Processing', 'NLP Applications and Tools', 'Other']",https://www.ijcai.org/proceedings/2020/557
+93,Modeling Dense Cross-Modal Interactions for Joint Entity-Relation Extraction,Main,"['Information Extraction', 'Named Entities']",https://www.ijcai.org/proceedings/2020/558
+94,Knowledge Graphs Enhanced Neural Machine Translation,Main,"['Machine Translation', 'Natural Language Generation']",https://www.ijcai.org/proceedings/2020/559
+95,Fast and Accurate Neural CRF Constituency Parsing,Main,"['Tagging, chunking, and parsing']",https://www.ijcai.org/proceedings/2020/560
+96,A Relation-Specific Attention Network for Joint Entity and Relation Extraction,Main,"['Information Extraction', 'Knowledge Extraction']",https://www.ijcai.org/proceedings/2020/561
+97,Adversarial Graph Embeddings for Fair Influence Maximization over Social Networks,Special,['Embeddings'],https://www.ijcai.org/proceedings/2020/594
+98,Improving Tandem Mass Spectra Analysis with Hierarchical Learning,Special,['NLP Applications and Tools'],https://www.ijcai.org/proceedings/2020/599
+99,Harnessing Code Switching to Transcend the Linguistic Barrier,Special,"['Natural Language Processing', 'Information Retrieval', 'Embeddings']",https://www.ijcai.org/proceedings/2020/602
+100,Emoji-Powered Representation Learning for Cross-Lingual Sentiment Classification (Extended Abstract),Sister Conferences Best Papers,['Text Classification'],https://www.ijcai.org/proceedings/2020/649
+101,Specializing Word Embeddings (for Parsing) by Information Bottleneck (Extended Abstract),Sister Conferences Best Papers,"['Embeddings', 'Tagging, chunking, and parsing', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/658
+102,Bridging the Gap between Training and Inference for Neural Machine Translation (Extended Abstract),Sister Conferences Best Papers,"['Machine Translation', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/667
+103,A Survey on Computational Propaganda Detection,Survey,['general'],https://www.ijcai.org/proceedings/2020/672
+104,From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information,Survey,['general'],https://www.ijcai.org/proceedings/2020/676
+105,A Survey on Using Gaze Behaviour for Natural Language Processing,Survey,['general'],https://www.ijcai.org/proceedings/2020/683
+106,Incorporating Extra Knowledge to Enhance Word Embedding,Survey,['general'],https://www.ijcai.org/proceedings/2020/686
+107,The Knowledge Acquisition Bottleneck Problem in Multilingual Word Sense Disambiguation,Survey,['general'],https://www.ijcai.org/proceedings/2020/687
+108,Predicting Strategic Behavior from Free Text (Extended Abstract),Journal,['Text Classification'],https://www.ijcai.org/proceedings/2020/699
+109,Variational Bayes in Private Settings (VIPS) (Extended Abstract),Journal,['Natural Language Processing'],https://www.ijcai.org/proceedings/2020/705
+110,Compositionality Decomposed: How do Neural Networks Generalise? (Extended Abstract),Journal,"['Natural Language Semantics', 'Natural Language Processing']",https://www.ijcai.org/proceedings/2020/708
+111,Point at the Triple: Generation of Text Summaries from Knowledge Base Triples (Extended Abstract),Journal,['Natural Language Generation'],https://www.ijcai.org/proceedings/2020/711
+112,A Survey on Temporal Reasoning for Temporal Information Extraction from Text (Extended Abstract),Journal,"['Information Extraction', 'Natural Language Semantics']",https://www.ijcai.org/proceedings/2020/712
+113,Language Independent Sequence Labelling for Opinion Target Extraction (Extended Abstract),Journal,"['Sentiment Analysis and Text Mining', 'Information Extraction', 'NLP Applications and Tools']",https://www.ijcai.org/proceedings/2020/717
+114,Context Vectors Are Reflections of Word Vectors in Half the Dimensions (Extended Abstract),Journal,['Embeddings'],https://www.ijcai.org/proceedings/2020/718
+115,Developing an Integrated Model of Speech Entrainment,Early Career,"['Dialogue', 'Speech']",https://www.ijcai.org/proceedings/2020/727
+116,On Building an Interpretable Topic Modeling Approach for the Urdu Language,Doctoral Consortium,"['Natural Language Processing', 'NLP Applications and Tools', 'Embeddings', 'Natural Language Summarization']",https://www.ijcai.org/proceedings/2020/740
+117,Towards an Artificial Argumentation System,Doctoral Consortium,['Discourse'],https://www.ijcai.org/proceedings/2020/743
+118,"End-to-End Signal Factorization for Speech: Identity, Content, and Style",Doctoral Consortium,['Speech'],https://www.ijcai.org/proceedings/2020/746
+119,BlueMemo: Depression Analysis through Twitter Posts,Demos,['general'],https://www.ijcai.org/proceedings/2020/760
+120,AutoSurvey: Automatic Survey Generation based on a Research Draft,Demos,['general'],https://www.ijcai.org/proceedings/2020/761
+121,AILA: A Question Answering System in the Legal Domain,Demos,['general'],https://www.ijcai.org/proceedings/2020/762
+122,Lossless Semantic Round-Tripping in PENG ASP,Demos,['general'],https://www.ijcai.org/proceedings/2020/773
+123,A Speech-to-Knowledge-Graph Construction System,Demos,['general'],https://www.ijcai.org/proceedings/2020/777
