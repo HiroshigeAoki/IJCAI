@@ -13,3 +13,5 @@ nlp, xai, plannning
 
 csv/[category]/[year]_session.csv: Proceedingsで[category]のセッションだけ。  
 csv/[category]/[year].csv: Proceedingsの論文でKeywordに[category]を含むもの。
+
+分析結果は、note.ipnybにあります。
