@@ -3,9 +3,9 @@
 ## スクレイピング方法
 
 * [category]のセッション
-python session.py [category]
+```python session.py [category]```
 * [category]をkeywordに含むProceedingsの論文。
-python keyword.py [category]
+```python keyword.py [category]```
 * 対応カテゴリ
 nlp, xai, plannning
 
