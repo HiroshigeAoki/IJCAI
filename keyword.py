@@ -15,7 +15,7 @@ os.makedirs('./csv/nlp', exist_ok=True)
 years = [2022, 2021, 2020, 2019, 2018, 2017]
 cat = sys.argv[1]
 
-def extract_nlp(year):
+def extract(year):
     res = requests.get(f'https://www.ijcai.org/proceedings/{year}/')
     soup = BeautifulSoup(res.content, features="html.parser")
     details = soup.find_all('div', {'class': 'details'})
@@ -67,7 +67,7 @@ def extract_nlp(year):
 
 def main():
     joblib.Parallel(n_jobs=len(years), backend="threading")(
-        joblib.delayed(extract_nlp)(
+        joblib.delayed(extract)(
             year,
         ) for year in years
     )
